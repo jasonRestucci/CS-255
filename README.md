@@ -1,8 +1,8 @@
 # CS-255
 System Analysis and Design 
 
-Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?_
-  The DriverPass project was about the design of a system for the driving school of the same name. The client wanted a system where students could take practice tests, access learning material, and schedule road lessons in an online, web-based environment. My job was to design the system, work out its requirements, and develop certain design documentation, diagrams, and charts.
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+ /n The DriverPass project was about the design of a system for the driving school of the same name. The client wanted a system where students could take practice tests, access learning material, and schedule road lessons in an online, web-based environment. My job was to design the system, work out its requirements, and develop certain design documentation, diagrams, and charts.
 
 What did you do particularly well?_
   I think the functional, non-functional, and technical requirements I had laid out were well-constructed and well-detailed.
